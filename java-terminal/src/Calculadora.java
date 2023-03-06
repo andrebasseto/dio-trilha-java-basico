@@ -16,4 +16,7 @@ public class Calculadora {
     public int somar(int numeroUm, int numeroDois) {
         return numeroUm + numeroDois;
     }
+
+    // No terminal execute o comando abaixo
+    // javadoc --encoding UTF-8 -docencoding ISO-8859-1 -d ../docs src/*.java
 }
